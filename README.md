@@ -3,7 +3,7 @@
 
                               Project number 01 :- Madlibs
 
-    Just give me some prompts for the parts of speech I'll need to fill in the blanks. Here are some examples:
+Just give me some prompts for the parts of speech I'll need to fill in the blanks. Here are some examples:
     
     1.Adjective
     2.Noun
@@ -16,7 +16,7 @@
     9.Adjective
     10.Verb (past tense)
 
-    Sure, here's a Mad Libs story for "Project Berify":
+Sure, here's a Mad Libs story for "Project Berify":
 
 Once upon a time, there was a(n) 1 company called Berify. They specialized in 2 and were known for their ability to 3 4. One day, the CEO of Berify, 5, called a meeting with all of the 6 in the company. She told them that they needed to increase their revenue by 7 percent by the end of the year. Everyone in the room let out a collective 8! It was a(n) 9 goal, but they were determined to 10 it.
 
