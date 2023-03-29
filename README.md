@@ -70,7 +70,7 @@ Overall, this project is a fun and interactive way to practice programming skill
 
 
 
-                                Project number 06 :- Tic-Tac-Toe AI
+                                Project number 06 :- Tic-Tac-Toe (AI)
 
 Tic-Tac-Toe is a classic two-player game played on a 3x3 grid. The goal of the game is for a player to get three of their symbols in a row (horizontally, vertically, or diagonally) before the other player does.
 
@@ -162,7 +162,7 @@ Sudoku solvers can be created using many different programming languages such as
 
 
 
-                                 Project number 10:-Photo Manipulation in Python 
+                         Project number 10:-Photo Manipulation in Python 
 
 
 A photo manipulation project in Python can involve using various libraries and techniques to modify and enhance images. Here are some possible features that can be implemented in such a project:
@@ -182,7 +182,7 @@ A photo manipulation project in Python can involve using various libraries and t
 Overall, a photo manipulation project in Python can be a fun and challenging task that requires knowledge of image processing, computer vision, and machine learning techniques. It can also be a useful skill for professionals in fields such as photography, graphic design, and digital marketing.
 
 
-                                Project number 11:- Markov Chain Text Composer 
+                           Project number 11:- Markov Chain Text Composer 
 
 
 A Markov Chain Text Composer is a program that generates new text based on an existing text source using a statistical model called a Markov chain. Here are the basic steps to create a Markov Chain Text Composer in Python:
